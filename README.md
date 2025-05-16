@@ -1,6 +1,4 @@
 # DSA-CPP
-
-# DSA-CPP
 C++ solutions for Data Structures and Algorithms problems and projects.
 ## Day 1 (May PROJECTS)
 - **Two Sum**: LeetCode problem to find indices of two numbers that add up to a target.
