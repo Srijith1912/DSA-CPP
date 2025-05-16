@@ -1,3 +1,8 @@
 # DSA-CPP
 
-This repo contains all the solutions to the leetcode problems I have done/ am doing this summer. It will also contain my "Phonebook" project as part of my journey of learning DSA in C++.
+# DSA-CPP
+C++ solutions for Data Structures and Algorithms problems and projects.
+## Day 1 (May PROJECTS)
+- **Two Sum**: LeetCode problem to find indices of two numbers that add up to a target.
+- **Remove Duplicates from Sorted Array**: LeetCode problem to remove duplicates in-place from a sorted array.
+- **Phonebook**: Mini-project using unordered_map to store names and phone numbers.
