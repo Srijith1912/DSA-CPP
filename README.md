@@ -7,3 +7,5 @@ C++ solutions for Data Structures and Algorithms problems and projects.
 ## Day 2 (May 17, 2025)
 - **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**: LeetCode problem to check if parentheses are valid using a stack.
 - **[Reverse String](https://leetcode.com/problems/reverse-string/)**: LeetCode problem to reverse a string in-place using two pointers.
+- **[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)**: LeetCode problem to find the length of the last word in a string.
+- **Phonebook Update**: Added user input to store and display names and phone numbers dynamically.
