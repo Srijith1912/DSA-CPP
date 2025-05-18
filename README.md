@@ -9,3 +9,6 @@ C++ solutions for Data Structures and Algorithms problems and projects.
 - **[Reverse String](https://leetcode.com/problems/reverse-string/)**: LeetCode problem to reverse a string in-place using two pointers.
 - **[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)**: LeetCode problem to find the length of the last word in a string.
 - **Phonebook Update**: Added user input to store and display names and phone numbers dynamically.
+## Day 3 (May 18, 2025)
+- **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)**: LeetCode problem to reverse a linked list iteratively.
+- **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)**: LeetCode problem to merge two sorted linked lists.
