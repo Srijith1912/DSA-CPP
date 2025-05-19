@@ -12,3 +12,4 @@ C++ solutions for Data Structures and Algorithms problems and projects.
 ## Day 3 (May 18, 2025)
 - **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)**: LeetCode problem to reverse a linked list iteratively.
 - **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)**: LeetCode problem to merge two sorted linked lists.
+- **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)**: LeetCode problem to detect a cycle in a linked list using Floyd’s algorithm.
