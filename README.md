@@ -16,3 +16,8 @@ C++ solutions for Data Structures and Algorithms problems and projects.
 ## Day 4 (May 19, 2025)
 - **[Min Stack](https://leetcode.com/problems/min-stack/)**: Designed a stack with O(1) minimum retrieval.
 - **[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)**: Implemented a queue using two stacks.
+## Day 5 (May 20, 2025)
+- **[Binary Search](https://leetcode.com/problems/binary-search/)**: Implemented efficient search in sorted array.
+- **[Search Insert Position](https://leetcode.com/problems/search-insert-position/)**: Found insertion point in sorted array.
+- **[Find Peak Element](https://leetcode.com/problems/find-peak-element/)**: Identified peak using binary search.
+- **Phonebook**: Added binary search functionality.
