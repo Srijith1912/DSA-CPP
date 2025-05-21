@@ -21,3 +21,8 @@ C++ solutions for Data Structures and Algorithms problems and projects.
 - **[Search Insert Position](https://leetcode.com/problems/search-insert-position/)**: Found insertion point in sorted array.
 - **[Find Peak Element](https://leetcode.com/problems/find-peak-element/)**: Identified peak using binary search.
 - **Phonebook**: Added binary search functionality.
+## Day 6 (May 21, 2025)
+- **[First Bad Version](https://leetcode.com/problems/first-bad-version/)**: Found first bad version using binary search.
+- **[Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)**: Solved two-sum with two pointers on sorted array.
+- **Review**: Reviewed Week 1 DSA concepts (arrays, strings, linked lists, stacks/queues, binary search).
+  
