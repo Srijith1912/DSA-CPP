@@ -25,4 +25,6 @@ C++ solutions for Data Structures and Algorithms problems and projects.
 - **[First Bad Version](https://leetcode.com/problems/first-bad-version/)**: Found first bad version using binary search.
 - **[Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)**: Solved two-sum with two pointers on sorted array.
 - **Review**: Reviewed Week 1 DSA concepts (arrays, strings, linked lists, stacks/queues, binary search).
-  
+  ## Day 7 (May 22, 2025)
+- **Phonebook**: Added delete contact and clear phonebook functionality.
+
