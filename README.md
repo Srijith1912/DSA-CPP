@@ -90,8 +90,8 @@ Actively seeking internship opportunities to apply my C++ and DSA skills. Open t
 - Submit a pull request with your improvements.
 
 ### Contact
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/srijithmulupuri/
+- Email: smulupur@asu.edu
 
 ### Acknowledgements
 - Thanks to GeeksforGeeks for learning resources.
