@@ -106,7 +106,8 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
 ### Certifications
 - **In Progress**: Sanfoundry Data Structure Certification (Beginner Level).
   - **May 24**: Completed Level Test 1.
-  - **May 25–28**: Plan to complete Level Tests 2–5 (one per day, 30 minutes each).
+  - **May 25**: Completed Level Test 2.
+  - **May 26–28**: Plan to complete Level Tests 3–5 (one per day, 30 minutes each).
   - **May 29**: Plan to complete Level Tests 6–10 and final test.
 
 ### Internship Goals
