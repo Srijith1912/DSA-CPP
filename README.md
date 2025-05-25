@@ -52,6 +52,7 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
   - Display all contacts.
   - Delete a contact by name using binary search.
   - Clear the entire phonebook.
+- **Files**: `0 - Phonebook.cpp`
 - **Technologies**: C++, STL (vector, algorithm).
 
 #### LeetCode Problems Solved (15)
@@ -60,6 +61,7 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
 - Linked Lists: **Reverse Linked List**, **Merge Two Sorted Lists**, **Linked List Cycle**.
 - Stacks/Queues: **Min Stack**, **Implement Queue using Stacks**.
 - Binary Search: **Binary Search**, **Search Insert Position**, **Find Peak Element**, **First Bad Version**, **Two Sum II – Input Array Is Sorted**.
+- **Files**: `binary_search.cpp`, `find_peak_element.cpp`, `first_bad_version.cpp`, `implement_queue_using_stacks.cpp`, `length_of_last_word.cpp`, `linked_list_cycle.cpp`, `merge_two_sorted_lists.cpp`, `min_stack.cpp`, `remove_duplicates.cpp`, `reverse_linked_list.cpp`, `reverse_string.cpp`, `search_insert_position.cpp`, `two_sum.cpp`, `two_sum_ii.cpp`, `valid_parentheses.cpp`.
 
 ### Week 2: May 23–29, 2025 (Trees and Heaps)
 - **Goal**: Solve 15 LeetCode problems, start Calculator mini-project.
@@ -68,17 +70,35 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
 #### Daily Breakdown
 - **Day 1 (May 23)**:
   - Read: GeeksforGeeks “Binary Tree in C++” (30 min).
-  - LeetCode: **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)**: Inverted a binary tree using recursion. **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)**: Calculated the maximum depth using recursion.
-  - Project: Starting Calculator mini-project (in progress).
-  - GitHub: Added LeetCode solutions, will update with Calculator repo later.
+  - LeetCode: 
+    - **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)**: Inverted a binary tree using recursion.
+    - **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)**: Calculated the maximum depth using recursion.
+    - **[Same Tree](https://leetcode.com/problems/same-tree/)**: Checked if two trees are identical using recursion.
+    - **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)**: Verified if a tree is symmetric using recursive comparison.
+    - **[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)**: Calculated the minimum depth to a leaf node using recursion.
+  - Project: Started Calculator mini-project with basic addition and subtraction (see [Calculator repo](https://github.com/[YourUsername]/Calculator)).
+  - GitHub: Added LeetCode solutions and created Calculator repo.
+  - **Files**: `invert_binary_tree.cpp`, `max_depth_binary_tree.cpp`, `same_tree.cpp`, `symmetric_tree.cpp`, `min_depth_binary_tree.cpp`.
+- **Day 2 (May 24)**:
+  - Read: GeeksforGeeks “Binary Search Tree in C++” (30 min).
+  - LeetCode: 
+    - **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)**: Validated BST properties using recursion.
+    - **[Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/)**: Found LCA using BST properties.
+    - **[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)**: Searched for a value and returned the subtree.
+    - **[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)**: Found the minimum difference between nodes using inorder traversal.
+    - **[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)**: Inserted a new value while maintaining BST properties.
+  - Project: Enhanced Calculator with multiplication and division.
+  - GitHub: Updated with LeetCode solutions and Calculator enhancements.
+  - **Files**: `validate_bst.cpp`, `lowest_common_ancestor_bst.cpp`, `search_in_bst.cpp`, `min_absolute_difference_bst.cpp`, `insert_into_bst.cpp`.
 
 #### Future Plans
 - Continue solving tree and heap problems.
-- Finalize Calculator project with stack-based expression evaluation.
+- Enhance Calculator project with stack-based expression evaluation.
 
 ### Certifications
 - **In Progress**: Sanfoundry Data Structure Certification (Beginner Level).
-  - **May 24–28**: Plan to complete Level Tests 1–5 (one per day, 30 minutes each).
+  - **May 24**: Completed Level Test 1.
+  - **May 25–28**: Plan to complete Level Tests 2–5 (one per day, 30 minutes each).
   - **May 29**: Plan to complete Level Tests 6–10 and final test.
 
 ### Internship Goals
@@ -90,11 +110,11 @@ Actively seeking internship opportunities to apply my C++ and DSA skills. Open t
 - Submit a pull request with your improvements.
 
 ### Contact
-- LinkedIn: https://www.linkedin.com/in/srijithmulupuri/
-- Email: smulupur@asu.edu
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [Your Email]
 
 ### Acknowledgements
 - Thanks to GeeksforGeeks for learning resources.
 - Inspired by LeetCode community challenges.
 
-*Last Updated: May 23, 2025*
+*Last Updated: May 24, 2025*
