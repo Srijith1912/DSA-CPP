@@ -90,6 +90,14 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
   - Project: Enhanced Calculator with multiplication and division.
   - GitHub: Updated with LeetCode solutions and Calculator enhancements.
   - **Files**: `validate_bst.cpp`, `lowest_common_ancestor_bst.cpp`, `search_in_bst.cpp`, `min_absolute_difference_bst.cpp`, `insert_into_bst.cpp`.
+  - **Day 3 (May 25)**:
+  - Read: Reviewed BST properties (30 min).
+  - LeetCode: 
+    - **[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)**: Found the kth smallest element using inorder traversal.
+    - **[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)**: Performed inorder traversal using recursion.
+  - Project: Enhanced Calculator with basic stack-based expression evaluation.
+  - GitHub: Updated with LeetCode solutions.
+  - **Files**: `kth_smallest_bst.cpp`, `inorder_traversal.cpp`.
 
 #### Future Plans
 - Continue solving tree and heap problems.
