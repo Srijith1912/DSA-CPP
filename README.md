@@ -98,6 +98,14 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
   - Project: Enhanced Calculator with basic stack-based expression evaluation.
   - GitHub: Updated with LeetCode solutions.
   - **Files**: `kth_smallest_bst.cpp`, `inorder_traversal.cpp`.
+  - **Day 4 (May 26)**:
+  - Read: GeeksforGeeks “Heap in C++” (30 min).
+  - LeetCode: 
+    - **[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)**: Implemented median tracking using two heaps.
+    - **[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)**: Found top k elements using a heap.
+  - Project: Enhanced Calculator with improved stack-based evaluation.
+  - GitHub: Updated with LeetCode solutions.
+  - **Files**: `find_median_data_stream.cpp`, `top_k_frequent_elements.cpp`.
 
 #### Future Plans
 - Continue solving tree and heap problems.
