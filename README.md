@@ -106,6 +106,15 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
   - Project: Enhanced Calculator with improved stack-based evaluation.
   - GitHub: Updated with LeetCode solutions.
   - **Files**: `find_median_data_stream.cpp`, `top_k_frequent_elements.cpp`.
+  - **Day 5 (May 27)**:
+  - Read: GeeksforGeeks “Trie Data Structure” (30 min).
+  - Read: Revised DSA concepts (arrays, trees, heaps, tries) (30 min).
+  - LeetCode: 
+    - **[Path Sum](https://leetcode.com/problems/path-sum/)**: Solved using recursive path checking from root to leaf.
+    - **[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)**: Checked balance using height recursion with a helper function.
+    - **[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)**: Implemented using a min-heap to track the k largest elements.
+  - GitHub: Updated with LeetCode solutions.
+  - **Files**: `implement_trie.cpp`, `path_sum.cpp`, `balanced_binary_tree.cpp`, `kth_largest_element.cpp`.
 
 #### Future Plans
 - Continue solving tree and heap problems.
