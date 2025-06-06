@@ -76,7 +76,7 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
     - **[Same Tree](https://leetcode.com/problems/same-tree/)**: Checked if two trees are identical using recursion.
     - **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)**: Verified if a tree is symmetric using recursive comparison.
     - **[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)**: Calculated the minimum depth to a leaf node using recursion.
-  - Project: Started Calculator mini-project with basic addition and subtraction (see [Calculator repo](https://github.com/[YourUsername]/Calculator)).
+  - Project: Started Calculator mini-project with basic addition and subtraction (see [Calculator repo](https://github.com/Srijith1912/Calculator)).
   - GitHub: Added LeetCode solutions and created Calculator repo.
   - **Files**: `invert_binary_tree.cpp`, `max_depth_binary_tree.cpp`, `same_tree.cpp`, `symmetric_tree.cpp`, `min_depth_binary_tree.cpp`.
 - **Day 2 (May 24)**:
@@ -116,17 +116,6 @@ Welcome to my Data Structures and Algorithms practice repository in C++! This re
   - GitHub: Updated with LeetCode solutions.
   - **Files**: `implement_trie.cpp`, `path_sum.cpp`, `balanced_binary_tree.cpp`, `kth_largest_element.cpp`.
 
-#### Future Plans
-- Continue solving tree and heap problems.
-- Enhance Calculator project with stack-based expression evaluation.
-
-### Certifications
-- **In Progress**: Sanfoundry Data Structure Certification (Beginner Level).
-  - **May 24**: Completed Level Test 1.
-  - **May 25**: Completed Level Test 2.
-  - **May 26–28**: Plan to complete Level Tests 3–5 (one per day, 30 minutes each).
-  - **May 29**: Plan to complete Level Tests 6–10 and final test.
-
 ### Internship Goals
 Actively seeking internship opportunities to apply my C++ and DSA skills. Open to connect with recruiters and professionals in the field! #Internship #DSA #C++
 
@@ -136,8 +125,8 @@ Actively seeking internship opportunities to apply my C++ and DSA skills. Open t
 - Submit a pull request with your improvements.
 
 ### Contact
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/srijithmulupuri/]
+- Email: [smulupur@asu.edu]
 
 ### Acknowledgements
 - Thanks to GeeksforGeeks for learning resources.
